@@ -60,7 +60,7 @@ git status
 git add .
 
 # 7. Crear el commit con un mensaje descriptivo
-git commit -m "docs: agrega archivo markdown con mis datos de estudiante"
+git commit -m "agregando mi reporte de laboratorio YORDI.md"
 
 # 8. Subir los cambios al repositorio remoto (rama principal)
 git push origin main
