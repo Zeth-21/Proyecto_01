@@ -65,5 +65,7 @@ git add .
 # Crear commit
 git commit -m "mensaje"
 
+#como estoy trabajadno en mi rama "feature/nombre-funcion", mando para que se junte con el main
+
 # Subir cambios al repositorio del usuario principal
-git push origin main
+git push origin feature/nombre-funcion
